@@ -14,6 +14,6 @@ Assalamualaikum Wr.Wb ~!
 Note : 
      Website Tidak 100% Siap Karena Yang Di Nilai Dalam Acara Ujian Prakering Hanya Design Yang Menarik Dan Sedikit Javascript.
 
-     GitHub : https://github.com/Sanyoki/Portfolio
+    GitHub : https://github.com/Smilaaaaa/Portfolio-Smila
 
 Sekian Makasih >_<
